@@ -35,7 +35,7 @@ if(i == 1) {
 # use this instead of previous section if files are already downloaded to a working directory (much faster once downloaded)
 
 for(i in 1:length(file_list)) {
-
+  
 # import files on list and convert to text lines
 target <- file_list[i]
 district_import <- pdf_text(target)
