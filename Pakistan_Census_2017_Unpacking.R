@@ -191,7 +191,7 @@ census_data <- census_data %>%
   mutate(avg_hh_size = population / households)
 #
 # output as csv if desired
-# write.csv(census_data, "Pakistan_2017_Census_Blocks.csv")
+# write.csv(census_data, "Pakistan_2017_Census_Provisional.csv")
 #
 # DATA SUMMARY, RE-AGGREGATION, AND OTHER OBSERVATIONS ------------------------
 #
