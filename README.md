@@ -5,7 +5,9 @@ This respository collects data related to Pakistan's national census. The most r
 
 The PBS initially released provisional census block-level population and household numbers and aggregate totals, dated January 3 2018, for the four provinces, Islamabad Capital Territory, and Federally Administered Tribal Areas. (Accessible as of mid-May 2018, or by Wayback Machine [here](https://web.archive.org/web/20180515014953/http://www.pbscensus.gov.pk/).) 
 
-On April 12, 2021, the Council on Common Interests approved [final census results](https://www.pbs.gov.pk/content/final-results-census-2017), which were published by the PBS at the tehsil (or equivalent fourth-level administrative unit) and district level on May 19, 2021. The total final population figure (207,684,626 people) is a -0.44% difference from total provisional figures (207,776,954). Below the top-line change, all but four administrative units (out of 542) reported adjustments to population totals between the provisional and final results; see the file **provisional_to_final_adm_lvl_4_comparison.csv** for author-calculated differences. (But note caveat about Karachi cantonment populations below.)
+On April 12, 2021, the Council on Common Interests approved [final census results](https://www.pbs.gov.pk/content/final-results-census-2017), which were published by the PBS at the tehsil (or equivalent fourth-level administrative unit) and district level on May 19, 2021. 
+
+The total final population figure (207,684,626 people) is a -0.44% difference from total provisional figures (207,776,954). Below the top-line change, all but four administrative units (out of 542) reported adjustments to population totals between the provisional and final results; see the file **[provisional_to_final_adm_lvl_4_comparison.csv](https://github.com/colincookman/pakistan_census/blob/master/provisional_to_final_adm_lvl_4_comparison.csv)** for author-calculated differences. (But note caveat about Karachi cantonment populations below.)
 
 Detailed demographic data, and final census block-level figures, have not been released as of this writing.
 
