@@ -1,7 +1,7 @@
 # Pakistan Census Dataset
 
 ## Description of data 
-This respository collects data related to Pakistan's national census. The most recent completed census, the first in nearly twenty years, was carried out by the Pakistan Bureau of Statistics (PBS) between March 15 2017 - May 25 2017. 
+This repository collects data related to Pakistan's national census. The most recent completed census, the first in nearly twenty years, was carried out by the Pakistan Bureau of Statistics (PBS) between March 15 2017 - May 25 2017. 
 
 The Pakistani army provided security for the enumeration exercise, which was marred by at least two major incidents of violence. Army personnel also conducted parallel tabulation exercises. Pakistani expatriates and Afghan refugees living in official refugee camps were not included in the count, and six months’ residency was required to be counted as a resident of a given area. One analysis of the census process can be found from a [UN Populations Fund observer report](http://www.statistics.gov.pk/assets/publications/Pakistan%20Paopulation%20and%20Housing%20Census-2017%20National%20Report.pdf). Although there have been disputes about the accuracy of these figures, the provisional results were approved by the federal-provincial Council on Common Interests on August 25, 2017 and were used as the basis for constituency boundaries in the 2018 Pakistani general elections.
 
